@@ -32,6 +32,14 @@ You can copy these files and move them into your apps `node_modules` directory. 
 
 *Note* You probably have to rename it to index.js.
 
+**Requirements**
+You need to install these 2 dependencies in your project:
+
+```
+npm i @material-ui/core
+npm i styled-components
+```
+
 Then you can use it in code as follows:
 
 ```
